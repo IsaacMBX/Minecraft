@@ -96,7 +96,8 @@
       "minecraft:lush_caves": "2025-05-01 14:43:21 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-01 15:15:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 14:50:23 +0000",
-      "minecraft:meadow": "2025-04-30 20:15:30 +0000"
+      "minecraft:meadow": "2025-04-30 20:15:30 +0000",
+      "minecraft:plains": "2025-05-01 19:39:18 +0000"
     },
     "done": false
   },
@@ -2797,6 +2798,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-01 19:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-01 19:35:03 +0000"
@@ -2812,6 +2819,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-01 19:35:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-01 19:46:52 +0000"
     },
     "done": true
   },
@@ -2845,6 +2858,12 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:recipes/food/tortilla": {
+    "criteria": {
+      "has_egg": "2025-05-01 19:46:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-01 19:35:03 +0000"
@@ -2854,6 +2873,18 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-01 19:35:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-01 19:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-01 19:46:52 +0000"
     },
     "done": true
   },
@@ -2899,6 +2930,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 19:46:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-01 19:35:03 +0000"
@@ -2914,6 +2951,18 @@
   "tconstruct:recipes/misc/common/flint": {
     "criteria": {
       "has_item": "2025-05-01 19:35:03 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/mayonnaise": {
+    "criteria": {
+      "has_egg": "2025-05-01 19:46:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-01 19:46:52 +0000"
     },
     "done": true
   },
