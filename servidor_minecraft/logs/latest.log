@@ -740,3 +740,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01May2025 02:18:18.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepe2907 left the game
 [01May2025 02:19:08.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacMBX lost connection: Disconnected
 [01May2025 02:19:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX left the game
+[01May2025 02:30:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01May2025 02:30:22.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01May2025 02:30:22.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01May2025 02:30:23.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01May2025 02:30:25.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01May2025 02:30:25.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01May2025 02:30:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01May2025 02:30:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01May2025 02:30:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01May2025 02:30:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01May2025 02:30:25.366] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

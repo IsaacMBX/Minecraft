@@ -9687,3 +9687,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01May2025 02:18:51.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 02:19:08.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacMBX lost connection: Disconnected
 [01May2025 02:19:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX left the game
+[01May2025 02:23:51.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:23:51.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:28:51.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:28:51.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:30:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01May2025 02:30:22.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01May2025 02:30:22.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01May2025 02:30:23.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01May2025 02:30:25.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01May2025 02:30:25.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01May2025 02:30:25.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:30:25.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:30:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01May2025 02:30:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01May2025 02:30:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01May2025 02:30:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01May2025 02:30:25.318] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[01May2025 02:30:25.318] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$dfb18a$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[01May2025 02:30:25.318] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$dfb18a$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[01May2025 02:30:25.361] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[01May2025 02:30:25.362] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[01May2025 02:30:25.366] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
