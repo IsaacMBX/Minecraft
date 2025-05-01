@@ -85,8 +85,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-01 14:55:01 +0000",
       "minecraft:birch_forest": "2025-05-01 01:24:43 +0000",
       "minecraft:dark_forest": "2025-04-30 20:15:54 +0000",
+      "minecraft:river": "2025-05-01 14:49:42 +0000",
+      "minecraft:stony_shore": "2025-05-01 03:23:31 +0000",
+      "minecraft:lush_caves": "2025-05-01 14:43:21 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-01 14:50:23 +0000",
       "minecraft:meadow": "2025-04-30 20:15:30 +0000"
     },
     "done": false
@@ -772,7 +777,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-30 20:21:30 +0000",
-      "minecraft:zombie": "2025-04-30 20:20:26 +0000"
+      "minecraft:zombie": "2025-04-30 20:20:26 +0000",
+      "minecraft:drowned": "2025-05-01 14:50:01 +0000"
     },
     "done": false
   },
@@ -904,7 +910,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-04-30 20:21:51 +0000"
+      "cooked_porkchop": "2025-05-01 14:51:40 +0000",
+      "cooked_mutton": "2025-04-30 20:21:51 +0000",
+      "baked_potato": "2025-05-01 03:19:32 +0000",
+      "apple": "2025-05-01 03:22:10 +0000",
+      "rabbit": "2025-05-01 03:18:08 +0000",
+      "mutton": "2025-05-01 14:49:36 +0000",
+      "glow_berries": "2025-05-01 14:43:23 +0000"
     },
     "done": false
   },
@@ -1418,6 +1430,18 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:bettermcdonaldsmod/get_seeds": {
+    "criteria": {
+      "inventory_changed": "2025-05-01 02:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-01 02:16:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-01 02:16:59 +0000"
@@ -1442,15 +1466,369 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
-      "has_dandelion": "2025-05-01 02:16:06 +0000"
+      "has_baked_potato": "2025-05-01 03:19:30 +0000"
     },
     "done": true
   },
-  "bettermcdonaldsmod:bettermcdonaldsmod/get_seeds": {
+  "bettermcdonaldsmod:recipes/food/fries": {
     "criteria": {
-      "inventory_changed": "2025-05-01 02:14:56 +0000"
+      "has_baked_potato": "2025-05-01 03:19:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-01 03:19:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-01 03:21:26 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/happy_meal": {
+    "criteria": {
+      "has_apple": "2025-05-01 03:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-01 03:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-01 03:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-01 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-01 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-01 14:49:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-01 14:50:11 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/filet_o_fish": {
+    "criteria": {
+      "has_cooked_salmon": "2025-05-01 14:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-01 14:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-01 14:49:11 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/raw_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 14:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-01 14:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 14:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-01 14:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-01 14:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-01 14:49:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2025-05-01 14:44:16 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 14:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-05-01 14:50:04 +0000"
+    },
+    "done": true
+  },
+  "globalxp:recipes/misc/xp_block": {
+    "criteria": {
+      "has_emerald": "2025-05-01 14:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-01 14:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 14:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-01 14:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-01 14:49:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 14:49:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
+    "criteria": {
+      "has_item": "2025-05-01 14:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-01 14:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 14:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 14:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-01 14:49:11 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/beef_patty": {
+    "criteria": {
+      "has_beef": "2025-05-01 14:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-01 14:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 14:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-01 14:50:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-05-01 14:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-01 14:49:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 14:50:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
+    "criteria": {
+      "has_item": "2025-05-01 14:49:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 14:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-01 14:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-01 14:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 14:47:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 14:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-01 14:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 14:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 14:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 14:49:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-05-01 14:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 14:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-01 14:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-01 14:47:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-05-01 14:49:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-05-01 14:47:28 +0000"
+    },
+    "done": true
+  },
+  "roundabout:body_bag": {
+    "criteria": {
+      "has_bone": "2025-05-01 14:47:28 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conduit_binder_composite": {
+    "criteria": {
+      "has_ingredient_clay": "2025-05-01 14:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 14:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-01 14:49:01 +0000"
     },
     "done": true
   },
