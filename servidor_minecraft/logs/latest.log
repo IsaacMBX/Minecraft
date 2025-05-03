@@ -732,3 +732,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03May2025 23:29:06.456] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/279, l='ServerLevel[world]', x=206.36, y=-5.88, z=812.23, removed=DISCARDED]
 [03May2025 23:31:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Slugger
 [03May2025 23:31:33.824] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/279, l='ServerLevel[world]', x=206.36, y=-5.88, z=812.23, removed=DISCARDED]
+[03May2025 23:35:55.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03May2025 23:35:55.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03May2025 23:35:55.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacMBX lost connection: Server closed
+[03May2025 23:35:55.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX left the game
+[03May2025 23:35:55.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03May2025 23:35:57.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03May2025 23:36:04.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03May2025 23:36:04.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03May2025 23:36:04.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03May2025 23:36:04.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03May2025 23:36:04.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03May2025 23:36:04.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03May2025 23:36:04.355] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
