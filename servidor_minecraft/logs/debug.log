@@ -9727,3 +9727,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04May2025 20:35:31.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 left the game
 [04May2025 20:36:03.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacMBX lost connection: Disconnected
 [04May2025 20:36:03.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX left the game
+[04May2025 20:38:32.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 20:38:32.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 20:43:32.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 20:43:32.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
