@@ -85,6 +85,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-04 00:02:50 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-01 15:13:51 +0000",
       "minecraft:taiga": "2025-05-01 14:55:01 +0000",
       "minecraft:birch_forest": "2025-05-01 01:24:43 +0000",
@@ -786,6 +787,8 @@
       "minecraft:creeper": "2025-05-02 22:00:49 +0000",
       "minecraft:slime": "2025-05-01 15:03:08 +0000",
       "minecraft:husk": "2025-05-01 15:18:00 +0000",
+      "minecraft:cave_spider": "2025-05-04 00:09:13 +0000",
+      "minecraft:stray": "2025-05-04 00:04:41 +0000",
       "minecraft:zombie": "2025-04-30 20:20:26 +0000",
       "minecraft:drowned": "2025-05-01 14:50:01 +0000"
     },
@@ -927,6 +930,7 @@
       "rabbit": "2025-05-01 03:18:08 +0000",
       "pumpkin_pie": "2025-05-01 15:23:33 +0000",
       "mutton": "2025-05-01 14:49:36 +0000",
+      "golden_apple": "2025-05-04 00:04:38 +0000",
       "glow_berries": "2025-05-01 14:43:23 +0000",
       "mushroom_stew": "2025-05-01 15:29:06 +0000",
       "cooked_salmon": "2025-05-01 15:06:49 +0000"
@@ -3201,6 +3205,78 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-03 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-05-03 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-03 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_fluid_filter": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/lipton_ice_tea_peach": {
+    "criteria": {
+      "has_water_bucket": "2025-05-03 23:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-03 23:31:56 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/ketchup": {
+    "criteria": {
+      "has_water_bucket": "2025-05-03 23:31:56 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/sprite": {
+    "criteria": {
+      "has_water_bucket": "2025-05-03 23:31:56 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/mustard": {
+    "criteria": {
+      "has_water_bucket": "2025-05-03 23:31:56 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/coca_cola": {
+    "criteria": {
+      "has_water_bucket": "2025-05-03 23:31:56 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/sweet_sour_sauce": {
+    "criteria": {
+      "has_water_bucket": "2025-05-03 23:31:56 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/fanta": {
+    "criteria": {
+      "has_water_bucket": "2025-05-03 23:31:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-03 23:33:59 +0000"
@@ -3237,12 +3313,6 @@
     },
     "done": true
   },
-  "bettermcdonaldsmod:recipes/food/lipton_ice_tea_peach": {
-    "criteria": {
-      "has_water_bucket": "2025-05-03 23:31:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-05-03 23:33:59 +0000"
@@ -3255,57 +3325,9 @@
     },
     "done": true
   },
-  "enderio:recipes/misc/basic_fluid_filter": {
-    "criteria": {
-      "has_ingredient": "2025-05-03 23:31:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-05-03 23:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-05-03 23:30:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-03 23:33:59 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/ketchup": {
-    "criteria": {
-      "has_water_bucket": "2025-05-03 23:31:56 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/sprite": {
-    "criteria": {
-      "has_water_bucket": "2025-05-03 23:31:56 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/explosive_charge": {
-    "criteria": {
-      "has_gunpowder": "2025-05-03 23:30:56 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/mustard": {
-    "criteria": {
-      "has_water_bucket": "2025-05-03 23:31:56 +0000"
-    },
-    "done": true
-  },
-  "bettermcdonaldsmod:recipes/food/coca_cola": {
-    "criteria": {
-      "has_water_bucket": "2025-05-03 23:31:56 +0000"
     },
     "done": true
   },
@@ -3315,21 +3337,255 @@
     },
     "done": true
   },
-  "bettermcdonaldsmod:recipes/food/sweet_sour_sauce": {
+  "bettermcdonaldsmod:recipes/food/big_mac": {
     "criteria": {
-      "has_water_bucket": "2025-05-03 23:31:56 +0000"
+      "has_bread": "2025-05-04 00:08:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "has_gunpowder": "2025-05-03 23:30:56 +0000"
+      "has_planks": "2025-05-03 23:52:47 +0000"
     },
     "done": true
   },
-  "bettermcdonaldsmod:recipes/food/fanta": {
+  "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
-      "has_water_bucket": "2025-05-03 23:31:56 +0000"
+      "has_cooked_chicken": "2025-05-04 00:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-03 23:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-03 23:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-03 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-03 23:58:42 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/hamburger": {
+    "criteria": {
+      "has_bread": "2025-05-04 00:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-03 23:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-03 23:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-04 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-03 23:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-04 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 23:53:58 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-05-04 00:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-03 23:52:47 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/mcwrap": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-04 00:01:13 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/chickenburger": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-04 00:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-03 23:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-03 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-03 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/cheeseburger": {
+    "criteria": {
+      "has_bread": "2025-05-04 00:08:35 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/food/enderios": {
+    "criteria": {
+      "has_ingredient": "2025-05-04 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-05-03 23:58:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-04 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-03 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-04 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-03 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-03 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-03 23:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-03 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-04 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 23:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-03 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/chicken_mcnuggets": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-04 00:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 23:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-03 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/mcchicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-04 00:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-03 23:52:47 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/mcbacon": {
+    "criteria": {
+      "has_bread": "2025-05-04 00:08:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-04 00:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-03 23:52:47 +0000"
     },
     "done": true
   },
