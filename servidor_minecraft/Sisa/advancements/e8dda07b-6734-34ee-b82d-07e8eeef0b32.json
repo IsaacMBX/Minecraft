@@ -1596,6 +1596,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-11 20:33:23 +0000",
       "cooked_beef": "2025-05-09 02:13:34 +0000",
+      "cooked_cod": "2025-05-11 21:28:54 +0000",
       "bread": "2025-05-11 20:45:50 +0000",
       "cooked_salmon": "2025-05-09 02:09:38 +0000"
     },
@@ -1835,9 +1836,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/big_mac": {
     "criteria": {
       "has_bread": "2025-05-11 20:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
     },
     "done": true
   },
@@ -1871,9 +1884,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_katana": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_parrying_dagger": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_quarterstaff": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/dark_steel_nugget": {
     "criteria": {
       "has_ingredient": "2025-05-11 21:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
     },
     "done": true
   },
@@ -1883,9 +1920,51 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/huge_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-11 21:16:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-05-11 20:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-11 21:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
     },
     "done": true
   },
@@ -1901,15 +1980,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 21:29:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_tomahawk": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_warhammer": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2025-05-11 20:59:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-11 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/raw_bacon": {
     "criteria": {
       "has_porkchop": "2025-05-11 20:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_javelin": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
     },
     "done": true
   },
@@ -1931,6 +2058,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
@@ -1940,6 +2073,12 @@
   "tconstruct:recipes/combat/tools/armor/travelers_boots": {
     "criteria": {
       "has_item": "2025-05-11 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
     },
     "done": true
   },
@@ -1963,6 +2102,12 @@
   "bettermcdonaldsmod:recipes/food/snack_salad": {
     "criteria": {
       "has_tomato": "2025-05-11 20:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-11 21:26:05 +0000"
     },
     "done": true
   },
@@ -2008,6 +2153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-11 21:26:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/netherite_arrow": {
     "criteria": {
       "has_bow": "2025-05-11 20:59:20 +0000"
@@ -2020,9 +2171,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-05-11 21:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-11 21:26:05 +0000"
     },
     "done": true
   },
@@ -2038,6 +2207,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-11 21:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-05-11 20:54:13 +0000"
@@ -2047,6 +2222,30 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-05-11 20:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-05-11 21:31:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_flanged_mace": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
     },
     "done": true
   },
@@ -2062,9 +2261,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_pike": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-11 20:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-11 21:26:05 +0000"
     },
     "done": true
   },
@@ -2074,9 +2303,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-11 21:28:37 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/chickenburger": {
     "criteria": {
       "has_bread": "2025-05-11 20:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-11 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_halberd": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longbow": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-11 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "roundabout:stereo": {
+    "criteria": {
+      "has_diamond_item": "2025-05-11 21:33:09 +0000"
     },
     "done": true
   },
@@ -2092,9 +2375,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 21:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-11 21:26:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_dagger": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "roundabout:diamond_glaive": {
+    "criteria": {
+      "has_diamond_item": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_greatsword": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 21:29:39 +0000"
     },
     "done": true
   },
@@ -2110,15 +2429,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-11 21:28:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_heavy_crossbow": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_lance": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_flanged_mace": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longsword": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
     },
     "done": true
   },
@@ -2152,9 +2489,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_arrow": {
     "criteria": {
       "has_bow": "2025-05-11 20:59:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
     },
     "done": true
   },
@@ -2170,6 +2519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/tortilla": {
     "criteria": {
       "has_wheat": "2025-05-11 20:42:53 +0000"
@@ -2179,6 +2534,24 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-05-11 20:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battle_hammer": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_throwing_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
     },
     "done": true
   },
@@ -2194,9 +2567,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-11 21:28:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-05-11 20:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_dagger": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
     },
     "done": true
   },
@@ -2206,9 +2597,45 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-11 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_glaive": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-05-11 21:07:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-11 21:16:26 +0000"
     },
     "done": true
   },
@@ -2230,15 +2657,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-05-11 20:58:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 21:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-11 21:16:26 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/ketchup": {
     "criteria": {
       "has_tomato": "2025-05-11 20:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
     },
     "done": true
   },
@@ -2254,9 +2729,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 21:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-11 21:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 21:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-11 20:53:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_saber": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/large_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
     },
     "done": true
   },
@@ -2278,6 +2795,12 @@
     },
     "done": true
   },
+  "roundabout:meteor_block": {
+    "criteria": {
+      "has_meteor_ingot": "2025-05-11 21:15:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-11 21:07:54 +0000"
@@ -2296,15 +2819,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-11 21:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "roundabout:stand_arrow": {
+    "criteria": {
+      "has_meteor_ingot": "2025-05-11 21:15:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_boomerang": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-05-11 20:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_scythe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
     },
     "done": true
   },
@@ -2344,6 +2909,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-11 21:28:37 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/dark_steel_grinding_ball": {
     "criteria": {
       "has_ingredient": "2025-05-11 21:08:34 +0000"
@@ -2359,6 +2948,18 @@
   "spartanweaponry:recipes/copper_javelin": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
     },
     "done": true
   },
@@ -2380,6 +2981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 21:29:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/handle_from_string": {
     "criteria": {
       "has_string": "2025-05-11 20:53:31 +0000"
@@ -2392,9 +2999,21 @@
     },
     "done": true
   },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-05-11 21:21:01 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_pike": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
     },
     "done": true
   },
@@ -2407,6 +3026,12 @@
   "spartanweaponry:recipes/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
     },
     "done": true
   },
@@ -2446,9 +3071,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-05-11 20:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 21:29:39 +0000"
     },
     "done": true
   },
@@ -2470,9 +3113,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-11 21:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/mcchicken": {
     "criteria": {
       "has_bread": "2025-05-11 20:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-05-11 21:26:05 +0000"
     },
     "done": true
   },
@@ -2491,6 +3152,12 @@
   "bettermcdonaldsmod:recipes/food/mcbacon": {
     "criteria": {
       "has_bread": "2025-05-11 20:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
     },
     "done": true
   },
@@ -2524,9 +3191,33 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/conduit_binder_composite": {
+    "criteria": {
+      "has_ingredient_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_rapier": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-05-11 20:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-11 21:28:37 +0000"
     },
     "done": true
   },
@@ -2539,6 +3230,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-05-11 20:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
     },
     "done": true
   },
@@ -2560,6 +3257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-11 21:28:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_throwing_knife": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
@@ -2572,15 +3275,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-11 21:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-11 20:54:17 +0000"
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-05-11 21:16:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-11 20:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-11 21:28:37 +0000"
     },
     "done": true
   },

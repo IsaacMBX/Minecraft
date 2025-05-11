@@ -791,3 +791,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11May2025 21:13:56.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [Suit Up]
 [11May2025 21:16:02.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [Monster Hunter]
 [11May2025 21:16:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [Crops of the Wild]
+[11May2025 21:17:40.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was blown up by Creeper
+[11May2025 21:19:43.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 was doomed to fall by Slugger
+[11May2025 21:21:01.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Vampire Slayer]
+[11May2025 21:21:57.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was doomed to fall by Slugger
+[11May2025 21:21:58.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 was blown up by Crawler
+[11May2025 21:22:20.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Zombie
+[11May2025 21:22:25.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 was slain by Zombie
+[11May2025 21:22:39.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Zombie
+[11May2025 21:22:44.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 was slain by Zombie
+[11May2025 21:22:52.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Zombie
+[11May2025 21:23:16.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX fell from a high place
+[11May2025 21:23:24.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 was blown up by Crawler
+[11May2025 21:23:44.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Huntsman
+[11May2025 21:24:12.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Huntsman
+[11May2025 21:25:28.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 was shot by Skeleton
+[11May2025 21:26:23.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 was slain by Zombie
+[11May2025 21:27:37.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [Stone Age]
+[11May2025 21:32:25.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepe2907 lost connection: Disconnected
+[11May2025 21:32:25.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 left the game
+[11May2025 21:32:41.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepe2907[/100.86.11.11:62677] logged in with entity id 17014 at (473.30000001192093, 15.0, -362.93485125983983)
+[11May2025 21:32:41.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 joined the game
+[11May2025 21:32:41.181] [Server thread/INFO] [Jade/]: Syncing config to pepe2907 (64505c0e-431e-34cb-a9f0-003d5c8179d3)
+[11May2025 21:33:09.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Diamonds!]
+[11May2025 21:34:58.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [Diamonds!]
+[11May2025 21:36:19.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Crops of the Wild]
