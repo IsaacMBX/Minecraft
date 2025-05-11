@@ -787,3 +787,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11May2025 21:04:17.945] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
 [11May2025 21:04:21.310] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
 [11May2025 21:06:47.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 was blown up by Faller
+[11May2025 21:12:26.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [Isn't It Iron Pick]
+[11May2025 21:13:56.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [Suit Up]
+[11May2025 21:16:02.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [Monster Hunter]
+[11May2025 21:16:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [Crops of the Wild]

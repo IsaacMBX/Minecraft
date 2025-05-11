@@ -1847,9 +1847,33 @@
     },
     "done": true
   },
+  "enderio:recipes/building_blocks/dark_steel_bars": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 21:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-11 21:10:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-11 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 21:08:34 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 21:08:34 +0000"
     },
     "done": true
   },
@@ -1868,6 +1892,12 @@
   "spartanweaponry:recipes/copper_boomerang": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_trapdoor": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 21:08:34 +0000"
     },
     "done": true
   },
@@ -1924,6 +1954,7 @@
       "minecraft:skeleton": "2025-05-11 20:54:34 +0000",
       "minecraft:spider": "2025-05-11 20:53:31 +0000",
       "minecraft:creeper": "2025-05-11 20:54:16 +0000",
+      "minecraft:silverfish": "2025-05-11 21:10:06 +0000",
       "minecraft:zombie": "2025-05-11 20:53:36 +0000",
       "minecraft:drowned": "2025-05-11 20:54:12 +0000"
     },
@@ -1935,9 +1966,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-05-11 21:10:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-11 20:53:31 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_door": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 21:08:34 +0000"
     },
     "done": true
   },
@@ -1959,6 +2002,12 @@
     },
     "done": true
   },
+  "enderio:recipes/building_blocks/dark_steel_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 21:08:34 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/netherite_arrow": {
     "criteria": {
       "has_bow": "2025-05-11 20:59:20 +0000"
@@ -1968,6 +2017,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-11 20:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-11 21:07:54 +0000"
     },
     "done": true
   },
@@ -2067,6 +2122,12 @@
     },
     "done": true
   },
+  "enderio:recipes/tools/dark_steel_sword": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 21:08:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-05-11 20:56:55 +0000"
@@ -2121,6 +2182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-11 21:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-11 20:54:17 +0000"
@@ -2136,6 +2203,12 @@
   "bettermcdonaldsmod:recipes/food/lettuce_seeds": {
     "criteria": {
       "has_lettuce": "2025-05-11 20:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-11 21:07:54 +0000"
     },
     "done": true
   },
@@ -2193,6 +2266,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-11 21:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-11 21:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-11 21:07:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
@@ -2214,6 +2305,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-05-11 20:42:53 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/cold_fire_igniter": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 21:08:34 +0000"
     },
     "done": true
   },
@@ -2247,6 +2344,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/dark_steel_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 21:08:34 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_lance": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
@@ -2256,6 +2359,12 @@
   "spartanweaponry:recipes/copper_javelin": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-11 21:05:14 +0000"
     },
     "done": true
   },
@@ -2289,6 +2398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-11 21:07:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:58:32 +0000"
@@ -2298,6 +2413,12 @@
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_bow": "2025-05-11 20:59:20 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 21:08:34 +0000"
     },
     "done": true
   },
@@ -2331,9 +2452,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-11 21:10:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-11 20:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-11 21:05:14 +0000"
     },
     "done": true
   },
@@ -2382,6 +2515,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-05-11 20:58:26 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_ladder": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 21:08:34 +0000"
     },
     "done": true
   },
