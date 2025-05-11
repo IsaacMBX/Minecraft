@@ -736,3 +736,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11May2025 20:30:08.768] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [11May2025 20:30:08.768] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [11May2025 20:33:12.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Wasp Business]
+[11May2025 20:40:44.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [The Lighthouse]
+[11May2025 20:41:13.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 was slain by Scavenger Rat
+[11May2025 20:42:50.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [A Seedy Place]
+[11May2025 20:43:48.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Where are my seeds?]
+[11May2025 20:44:58.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 was slain by Enderman
+[11May2025 20:45:28.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [Where are my seeds?]
+[11May2025 20:45:59.371] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11May2025 20:46:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [From seed to plant!]
+[11May2025 20:46:55.401] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[11May2025 20:52:17.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepe2907 has made the advancement [Sweet Dreams]
+[11May2025 20:53:31.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Monster Hunter]
+[11May2025 20:55:34.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Iron Maiden]

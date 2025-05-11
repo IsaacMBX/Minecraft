@@ -1596,6 +1596,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-11 20:33:23 +0000",
       "cooked_beef": "2025-05-09 02:13:34 +0000",
+      "bread": "2025-05-11 20:45:50 +0000",
       "cooked_salmon": "2025-05-09 02:09:38 +0000"
     },
     "done": false
@@ -1834,9 +1835,51 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:recipes/food/big_mac": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:43:36 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/raw_bacon": {
     "criteria": {
       "has_porkchop": "2025-05-11 20:30:14 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/hamburger": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:43:36 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/snack_salad": {
+    "criteria": {
+      "has_tomato": "2025-05-11 20:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-11 20:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-11 20:42:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-05-11 20:42:50 +0000"
+    },
+    "done": false
+  },
+  "bettermcdonaldsmod:recipes/food/mcwrap": {
+    "criteria": {
+      "has_lettuce": "2025-05-11 20:46:13 +0000"
     },
     "done": true
   },
@@ -1846,9 +1889,57 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:recipes/food/chickenburger": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:43:36 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/cheeseburger": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:43:36 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/food/enderios": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 20:42:53 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-05-11 20:40:44 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:bettermcdonaldsmod/harvest_lettuce": {
+    "criteria": {
+      "inventory_changed": "2025-05-11 20:46:13 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/tortilla": {
+    "criteria": {
+      "has_wheat": "2025-05-11 20:42:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-05-11 20:30:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-11 20:42:53 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/lettuce_seeds": {
+    "criteria": {
+      "has_lettuce": "2025-05-11 20:46:13 +0000"
     },
     "done": true
   },
@@ -1858,9 +1949,27 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:recipes/food/ketchup": {
+    "criteria": {
+      "has_tomato": "2025-05-11 20:40:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-11 20:42:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 20:30:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-11 20:42:53 +0000"
     },
     "done": true
   },
@@ -1873,6 +1982,42 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 20:30:14 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:bettermcdonaldsmod/get_seeds": {
+    "criteria": {
+      "inventory_changed": "2025-05-11 20:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-11 20:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-11 20:51:29 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/mcchicken": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:43:36 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/mcbacon": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-11 20:42:50 +0000"
     },
     "done": true
   },

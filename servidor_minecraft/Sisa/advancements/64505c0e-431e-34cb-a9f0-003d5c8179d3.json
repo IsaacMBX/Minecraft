@@ -97,9 +97,21 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:recipes/food/big_mac": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:44:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_scythe": {
     "criteria": {
       "has_wood": "2025-05-11 20:30:51 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/filet_o_fish": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:44:02 +0000"
     },
     "done": true
   },
@@ -127,6 +139,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_meat": "2025-05-11 20:50:20 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-05-11 20:30:51 +0000"
@@ -136,6 +154,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-11 20:32:56 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/raw_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 20:50:20 +0000"
     },
     "done": true
   },
@@ -157,9 +181,27 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:recipes/food/hamburger": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-11 20:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-11 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/snack_salad": {
+    "criteria": {
+      "has_tomato": "2025-05-11 20:41:27 +0000"
     },
     "done": true
   },
@@ -172,6 +214,12 @@
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2025-05-11 20:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-11 20:45:09 +0000"
     },
     "done": true
   },
@@ -193,6 +241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 20:50:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-11 20:30:51 +0000"
@@ -208,6 +262,12 @@
   "spartanweaponry:recipes/wooden_warhammer": {
     "criteria": {
       "has_wood": "2025-05-11 20:30:51 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/chickenburger": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:44:02 +0000"
     },
     "done": true
   },
@@ -259,6 +319,12 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:recipes/food/cheeseburger": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:44:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-11 20:30:51 +0000"
@@ -289,9 +355,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-11 20:41:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_flanged_mace": {
     "criteria": {
       "has_wood": "2025-05-11 20:30:51 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-05-11 20:41:27 +0000"
     },
     "done": true
   },
@@ -304,6 +382,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-11 20:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 20:50:20 +0000"
     },
     "done": true
   },
@@ -343,6 +427,12 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:recipes/food/ketchup": {
+    "criteria": {
+      "has_tomato": "2025-05-11 20:41:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_lance": {
     "criteria": {
       "has_wood": "2025-05-11 20:30:51 +0000"
@@ -358,6 +448,12 @@
   "spartanweaponry:recipes/wooden_longsword": {
     "criteria": {
       "has_wood": "2025-05-11 20:30:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 20:50:20 +0000"
     },
     "done": true
   },
@@ -391,6 +487,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 20:50:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 20:50:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/pole_from_wool": {
     "criteria": {
       "has_stick": "2025-05-11 20:32:56 +0000"
@@ -403,6 +511,12 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:bettermcdonaldsmod/get_seeds": {
+    "criteria": {
+      "inventory_changed": "2025-05-11 20:45:28 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/stick": {
     "criteria": {
       "has_ingredient": "2025-05-11 20:30:09 +0000"
@@ -412,6 +526,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-11 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-11 20:48:22 +0000"
     },
     "done": true
   },
@@ -430,6 +550,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-05-11 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-11 20:45:44 +0000"
     },
     "done": true
   },
@@ -457,9 +583,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-05-11 20:40:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-05-11 20:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-11 20:45:44 +0000"
     },
     "done": true
   },
@@ -475,9 +613,21 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:recipes/food/mcchicken": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:44:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-11 20:30:51 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/mcbacon": {
+    "criteria": {
+      "has_bread": "2025-05-11 20:44:02 +0000"
     },
     "done": true
   },
@@ -516,6 +666,12 @@
       "has_stick": "2025-05-11 20:32:56 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-05-11 20:48:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
