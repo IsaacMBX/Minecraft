@@ -748,3 +748,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 20:41:57.716] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
 [24May2025 20:42:14.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Take Aim]
 [24May2025 20:44:17.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Chest Slayer]
+[24May2025 20:58:04.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has completed the challenge [It Spreads]
+[24May2025 21:05:38.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was blown up by Crawler
+[24May2025 21:12:39.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Enraged Troll
+[24May2025 21:15:27.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Skeleton
+[24May2025 21:19:50.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-686, y=-19, z=372} BlockPos{x=-685, y=-20, z=371}
+[24May2025 21:20:06.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-677, y=-21, z=368} BlockPos{x=-678, y=-21, z=367}
+[24May2025 21:20:08.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-675, y=-21, z=371} BlockPos{x=-676, y=-22, z=371}
+[24May2025 21:20:50.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-666, y=-16, z=366} BlockPos{x=-665, y=-17, z=366}
+[24May2025 21:20:51.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-666, y=-18, z=367} BlockPos{x=-667, y=-19, z=367}
+[24May2025 21:20:56.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-662, y=-22, z=373} BlockPos{x=-662, y=-23, z=372}
+[24May2025 21:20:57.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-661, y=-23, z=375} BlockPos{x=-662, y=-23, z=377}
+[24May2025 21:20:57.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=-23, z=375} BlockPos{x=-662, y=-23, z=377}
+[24May2025 21:21:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Skeleton Musketeer

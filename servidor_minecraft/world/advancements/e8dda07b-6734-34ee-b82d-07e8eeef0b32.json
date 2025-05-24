@@ -1084,6 +1084,7 @@
       "minecraft:vindicator": "2025-05-24 02:19:19 +0000",
       "minecraft:spider": "2025-05-24 01:22:41 +0000",
       "minecraft:creeper": "2025-05-24 01:37:18 +0000",
+      "minecraft:enderman": "2025-05-24 21:03:16 +0000",
       "minecraft:zombie": "2025-05-24 00:43:21 +0000",
       "minecraft:zombie_villager": "2025-05-24 02:05:33 +0000"
     },
@@ -3613,6 +3614,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-05-24 20:38:38 +0000"
@@ -3631,6 +3638,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-24 20:20:58 +0000"
@@ -3643,15 +3656,45 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_glaive": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-24 20:38:23 +0000"
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/copper_platform": {
+    "criteria": {
+      "has_bars": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-24 20:47:35 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
+    "criteria": {
+      "has_item": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
     },
     "done": true
   },
@@ -3685,6 +3728,24 @@
     },
     "done": true
   },
+  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-05-24 21:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-05-24 20:47:35 +0000"
@@ -3706,6 +3767,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-05-24 20:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
     },
     "done": true
   },
@@ -3739,6 +3806,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-24 20:20:58 +0000"
@@ -3757,9 +3836,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2025-05-24 20:23:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
+    "criteria": {
+      "has_item": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_heavy_crossbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
     },
     "done": true
   },
@@ -3802,6 +3911,18 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-05-24 20:38:26 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
+    "criteria": {
+      "has_item": "2025-05-24 20:55:26 +0000"
     },
     "done": true
   },
@@ -3853,6 +3974,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_warhammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-05-24 20:31:56 +0000"
@@ -3865,9 +3992,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_battleaxe": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-05-24 20:46:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_lance": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
     },
     "done": true
   },
@@ -3901,15 +4058,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2025-05-24 20:37:12 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/fries": {
     "criteria": {
       "has_baked_potato": "2025-05-24 20:38:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
     },
     "done": true
   },
@@ -3922,6 +4097,30 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-05-24 20:46:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-24 20:58:04 +0000"
     },
     "done": true
   },
@@ -3961,6 +4160,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-05-24 20:38:38 +0000"
@@ -3979,6 +4190,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/sweet_sour_sauce": {
     "criteria": {
       "has_water_bucket": "2025-05-24 20:20:26 +0000"
@@ -3994,6 +4217,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-24 20:23:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-24 20:55:26 +0000"
     },
     "done": true
   },
