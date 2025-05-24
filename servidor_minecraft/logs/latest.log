@@ -777,3 +777,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 22:04:42.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-242, y=-16, z=393} BlockPos{x=-243, y=-16, z=394}
 [24May2025 22:04:43.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Enraged Troll
 [24May2025 22:04:43.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=-16, z=392} BlockPos{x=-239, y=-18, z=390}
+[24May2025 22:10:07.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX fell from a high place
+[24May2025 22:13:59.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Skeleton
