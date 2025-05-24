@@ -1084,6 +1084,7 @@
       "minecraft:vindicator": "2025-05-24 02:19:19 +0000",
       "minecraft:spider": "2025-05-24 01:22:41 +0000",
       "minecraft:creeper": "2025-05-24 01:37:18 +0000",
+      "minecraft:witch": "2025-05-24 21:42:05 +0000",
       "minecraft:enderman": "2025-05-24 21:03:16 +0000",
       "minecraft:zombie": "2025-05-24 00:43:21 +0000",
       "minecraft:zombie_villager": "2025-05-24 02:05:33 +0000"
@@ -3686,6 +3687,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-24 21:36:27 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
       "has_copper_ingot": "2025-05-24 20:55:26 +0000"
@@ -3986,6 +3993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-24 21:36:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-05-24 21:27:31 +0000"
@@ -4088,6 +4101,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-05-24 21:36:32 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/building_blocks/silent_oak_pressure_plate": {
     "criteria": {
       "has_ingredient": "2025-05-24 20:27:33 +0000"
@@ -4169,6 +4188,12 @@
   "spartanweaponry:recipes/copper_parrying_dagger": {
     "criteria": {
       "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2025-05-24 21:36:31 +0000"
     },
     "done": true
   },
@@ -4256,6 +4281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-24 21:36:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_saber": {
     "criteria": {
       "has_copper_ingot": "2025-05-24 20:55:26 +0000"
@@ -4271,6 +4302,12 @@
   "bettermcdonaldsmod:recipes/food/sweet_sour_sauce": {
     "criteria": {
       "has_water_bucket": "2025-05-24 20:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-24 21:32:48 +0000"
     },
     "done": true
   },

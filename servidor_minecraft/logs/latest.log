@@ -765,3 +765,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 21:33:12.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-627, y=-25, z=401} BlockPos{x=-626, y=-26, z=401}
 [24May2025 21:35:48.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-615, y=-25, z=412} BlockPos{x=-614, y=-25, z=412}
 [24May2025 21:35:48.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-615, y=-25, z=412} BlockPos{x=-614, y=-25, z=412}
+[24May2025 21:36:27.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Alex's Caves]
+[24May2025 21:36:32.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [It Belongs in a Museum]
