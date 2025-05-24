@@ -3615,6 +3615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-24 21:51:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-24 20:31:56 +0000"
@@ -3732,6 +3738,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-24 20:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-05-24 21:56:02 +0000"
     },
     "done": true
   },
@@ -4005,6 +4017,12 @@
     },
     "done": true
   },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "creeper_head": "2025-05-24 21:54:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-24 20:31:57 +0000"
@@ -4167,6 +4185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-05-24 21:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-24 20:23:25 +0000"
@@ -4206,6 +4230,12 @@
   "spartanweaponry:recipes/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-24 21:46:33 +0000"
     },
     "done": true
   },
@@ -4254,6 +4284,12 @@
   "spartanweaponry:recipes/copper_longbow": {
     "criteria": {
       "has_copper_ingot": "2025-05-24 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-24 21:46:54 +0000"
     },
     "done": true
   },
@@ -4332,6 +4368,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-24 20:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-05-24 21:51:30 +0000"
     },
     "done": true
   },
