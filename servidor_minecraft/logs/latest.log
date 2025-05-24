@@ -761,3 +761,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 21:20:57.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-661, y=-23, z=375} BlockPos{x=-662, y=-23, z=377}
 [24May2025 21:20:57.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=-23, z=375} BlockPos{x=-662, y=-23, z=377}
 [24May2025 21:21:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Skeleton Musketeer
+[24May2025 21:31:06.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-683, y=-18, z=385} BlockPos{x=-684, y=-19, z=384}
+[24May2025 21:33:12.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-627, y=-25, z=401} BlockPos{x=-626, y=-26, z=401}
+[24May2025 21:35:48.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-615, y=-25, z=412} BlockPos{x=-614, y=-25, z=412}
+[24May2025 21:35:48.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-615, y=-25, z=412} BlockPos{x=-614, y=-25, z=412}
