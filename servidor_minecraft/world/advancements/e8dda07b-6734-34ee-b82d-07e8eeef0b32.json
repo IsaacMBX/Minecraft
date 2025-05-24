@@ -1118,11 +1118,14 @@
       "cooked_porkchop": "2025-05-24 00:45:57 +0000",
       "cooked_mutton": "2025-05-24 01:35:34 +0000",
       "cooked_beef": "2025-05-24 00:43:50 +0000",
+      "baked_potato": "2025-05-24 20:39:03 +0000",
       "porkchop": "2025-05-24 02:32:11 +0000",
       "apple": "2025-05-24 03:02:17 +0000",
+      "pumpkin_pie": "2025-05-24 20:32:24 +0000",
       "bread": "2025-05-24 02:29:11 +0000",
       "golden_apple": "2025-05-24 02:31:31 +0000",
-      "melon_slice": "2025-05-24 01:58:49 +0000"
+      "melon_slice": "2025-05-24 01:58:49 +0000",
+      "golden_carrot": "2025-05-24 20:40:42 +0000"
     },
     "done": false
   },
@@ -3604,6 +3607,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-24 20:31:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-24 20:38:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-05-24 20:23:25 +0000"
@@ -3616,6 +3631,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-24 20:38:23 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/snack_salad": {
+    "criteria": {
+      "has_carrot": "2025-05-24 20:31:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-24 20:20:58 +0000"
@@ -3625,6 +3652,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-24 20:20:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-05-24 20:37:26 +0000"
     },
     "done": true
   },
@@ -3682,9 +3715,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-24 20:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-24 20:20:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-05-24 20:38:23 +0000"
     },
     "done": true
   },
@@ -3700,9 +3745,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-24 20:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-24 20:31:57 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/ketchup": {
     "criteria": {
       "has_water_bucket": "2025-05-24 20:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-24 20:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-24 20:38:23 +0000"
     },
     "done": true
   },
@@ -3718,6 +3787,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-24 20:31:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-24 20:23:25 +0000"
@@ -3727,6 +3802,12 @@
   "enderio:recipes/building_blocks/silent_oak_pressure_plate": {
     "criteria": {
       "has_ingredient": "2025-05-24 20:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-24 20:33:20 +0000"
     },
     "done": true
   },
@@ -3748,9 +3829,33 @@
     },
     "done": true
   },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-05-24 20:37:12 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/fries": {
+    "criteria": {
+      "has_baked_potato": "2025-05-24 20:38:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-24 20:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-24 20:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-24 20:31:57 +0000"
     },
     "done": true
   },
@@ -3760,9 +3865,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-24 20:31:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-24 20:20:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-24 20:38:38 +0000"
     },
     "done": true
   },
@@ -3781,6 +3898,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-24 20:23:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-24 20:31:56 +0000"
     },
     "done": true
   },
