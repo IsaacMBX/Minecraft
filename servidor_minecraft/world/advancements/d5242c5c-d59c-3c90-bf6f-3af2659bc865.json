@@ -2442,6 +2442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/big_mac": {
     "criteria": {
       "has_bread": "2025-05-26 01:25:04 +0000"
@@ -2490,6 +2496,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-26 01:18:02 +0000"
@@ -2532,6 +2550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-26 01:23:36 +0000"
@@ -2550,9 +2574,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-26 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
     },
     "done": true
   },
@@ -2595,6 +2631,12 @@
   "enderio:recipes/building_blocks/silent_stone_pressure_plate": {
     "criteria": {
       "has_ingredient": "2025-05-26 01:39:00 +0000"
+    },
+    "done": true
+  },
+  "globalxp:recipes/misc/xp_block": {
+    "criteria": {
+      "has_emerald": "2025-05-26 02:11:41 +0000"
     },
     "done": true
   },
@@ -2694,6 +2736,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/basic_fluid_filter": {
+    "criteria": {
+      "has_ingredient": "2025-05-26 02:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-26 01:23:59 +0000"
@@ -2784,6 +2832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-05-26 01:32:01 +0000"
@@ -2832,6 +2886,12 @@
     },
     "done": true
   },
+  "rpgsmw:berserk_class": {
+    "criteria": {
+      "berserk_class_0": "2025-05-26 02:23:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-26 01:34:54 +0000"
@@ -2841,6 +2901,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-26 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-26 02:11:41 +0000"
     },
     "done": true
   },
@@ -2862,9 +2928,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-05-26 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
     },
     "done": true
   },
@@ -2898,6 +2976,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/chicken_mcnuggets": {
     "criteria": {
       "has_cooked_chicken": "2025-05-26 00:54:35 +0000"
@@ -2907,6 +2997,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-26 01:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
     },
     "done": true
   },
@@ -2937,6 +3033,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-26 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
     },
     "done": true
   },
@@ -2985,6 +3087,12 @@
   "bettermcdonaldsmod:recipes/food/mcbacon": {
     "criteria": {
       "has_bread": "2025-05-26 01:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-26 02:20:52 +0000"
     },
     "done": true
   },
