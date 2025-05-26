@@ -600,7 +600,9 @@
       "porkchop": "2025-05-26 00:47:54 +0000",
       "mutton": "2025-05-24 01:30:24 +0000",
       "bread": "2025-05-24 02:23:38 +0000",
-      "melon_slice": "2025-05-24 02:17:28 +0000"
+      "golden_apple": "2025-05-26 01:00:06 +0000",
+      "melon_slice": "2025-05-24 02:17:28 +0000",
+      "carrot": "2025-05-26 01:04:42 +0000"
     },
     "done": false
   },
@@ -1338,6 +1340,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-26 01:00:33 +0000",
       "minecraft:spider": "2025-05-24 01:42:15 +0000",
       "minecraft:zombie": "2025-05-24 01:37:29 +0000"
     },
@@ -2573,9 +2576,33 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-26 01:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-26 01:00:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-26 01:04:39 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/raw_bacon": {
     "criteria": {
       "has_porkchop": "2025-05-26 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/snack_salad": {
+    "criteria": {
+      "has_carrot": "2025-05-26 01:04:39 +0000"
     },
     "done": true
   },
@@ -2621,6 +2648,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-26 01:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-05-26 00:52:36 +0000"
@@ -2651,6 +2684,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-26 01:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-26 00:48:11 +0000"
@@ -2669,9 +2708,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-26 01:04:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-05-26 00:54:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-26 01:04:39 +0000"
     },
     "done": true
   },

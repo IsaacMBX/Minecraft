@@ -4365,7 +4365,8 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "creeper_head": "2025-05-24 21:54:35 +0000",
-      "zombie_head": "2025-05-24 21:57:08 +0000"
+      "zombie_head": "2025-05-24 21:57:08 +0000",
+      "skeleton_skull": "2025-05-26 01:01:23 +0000"
     },
     "done": false
   },
@@ -4498,6 +4499,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-05-26 00:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-26 01:05:50 +0000"
     },
     "done": true
   },

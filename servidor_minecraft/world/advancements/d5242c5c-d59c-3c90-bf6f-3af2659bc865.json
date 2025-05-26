@@ -287,7 +287,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-05-24 01:24:46 +0000",
-      "cooked_beef": "2025-05-24 03:00:02 +0000"
+      "cooked_beef": "2025-05-24 03:00:02 +0000",
+      "golden_apple": "2025-05-26 01:00:26 +0000"
     },
     "done": false
   },
@@ -2514,6 +2515,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-26 01:00:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-05-26 01:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-26 01:00:07 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/chicken_mcnuggets": {
     "criteria": {
       "has_cooked_chicken": "2025-05-26 00:54:35 +0000"
@@ -2529,6 +2548,12 @@
   "bettermcdonaldsmod:recipes/food/mcchicken": {
     "criteria": {
       "has_cooked_chicken": "2025-05-26 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-26 01:00:07 +0000"
     },
     "done": true
   },
