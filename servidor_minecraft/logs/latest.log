@@ -758,3 +758,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26May2025 01:09:21.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Skeleton Musketeer
 [26May2025 01:09:24.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noel was shot by Skeleton Musketeer
 [26May2025 01:09:41.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noel was shot by Skeleton Musketeer
+[26May2025 01:15:07.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was slain by Zombie
+[26May2025 01:18:54.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
+[26May2025 01:19:11.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
+[26May2025 01:19:39.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
+[26May2025 01:19:54.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noel was shot by Skeleton
+[26May2025 01:20:19.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has completed the challenge [Cannibal]
+[26May2025 01:20:25.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 withered away
+[26May2025 01:22:38.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [A True Source of Evil]
+[26May2025 01:22:48.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noel has made the advancement [Take Aim]
