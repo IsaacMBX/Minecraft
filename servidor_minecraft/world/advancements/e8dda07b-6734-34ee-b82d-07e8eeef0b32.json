@@ -1085,6 +1085,8 @@
       "minecraft:spider": "2025-05-24 01:22:41 +0000",
       "minecraft:creeper": "2025-05-24 01:37:18 +0000",
       "minecraft:witch": "2025-05-24 21:42:05 +0000",
+      "minecraft:wither_skeleton": "2025-05-26 01:32:02 +0000",
+      "minecraft:cave_spider": "2025-05-26 01:41:00 +0000",
       "minecraft:enderman": "2025-05-24 21:03:16 +0000",
       "minecraft:stray": "2025-05-26 01:23:25 +0000",
       "minecraft:zombie": "2025-05-24 00:43:21 +0000",
@@ -4425,6 +4427,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-26 01:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-26 01:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-26 01:19:29 +0000"
@@ -4485,9 +4499,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 01:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-26 01:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 01:43:03 +0000"
     },
     "done": true
   },
@@ -4512,6 +4538,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-05-26 00:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 01:43:03 +0000"
     },
     "done": true
   },
@@ -4545,6 +4577,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 01:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-26 01:23:52 +0000"
@@ -4554,6 +4598,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-26 01:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 01:43:03 +0000"
     },
     "done": true
   },
@@ -4581,9 +4631,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 01:43:03 +0000"
+    },
+    "done": true
+  },
   "bettermcdonaldsmod:recipes/food/chicken_mcnuggets": {
     "criteria": {
       "has_cooked_chicken": "2025-05-26 00:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 01:43:03 +0000"
     },
     "done": true
   },
@@ -4626,6 +4688,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-05-26 00:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 01:43:03 +0000"
     },
     "done": true
   },

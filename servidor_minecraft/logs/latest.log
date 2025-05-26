@@ -767,3 +767,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26May2025 01:20:25.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 withered away
 [26May2025 01:22:38.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [A True Source of Evil]
 [26May2025 01:22:48.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noel has made the advancement [Take Aim]
+[26May2025 01:34:00.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has made the advancement [Cover Me with Diamonds]
+[26May2025 01:38:09.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noel moved wrongly!
+[26May2025 01:40:30.488] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[26May2025 01:45:26.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noel was burnt to a crisp whilst fighting Skeleton
+[26May2025 01:45:35.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
+[26May2025 01:46:00.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noel was slain by Wither Skeleton
+[26May2025 01:46:11.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was slain by Wither Skeleton
+[26May2025 01:49:32.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
+[26May2025 01:49:42.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noel has made the advancement [Cover Me with Diamonds]
+[26May2025 01:53:31.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Cover Me with Diamonds]
+[26May2025 01:55:01.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noel was slain by Zombie
+[26May2025 01:55:19.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was slain by Zombie
+[26May2025 01:55:45.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has made the advancement [Amateur Archaeologist]
