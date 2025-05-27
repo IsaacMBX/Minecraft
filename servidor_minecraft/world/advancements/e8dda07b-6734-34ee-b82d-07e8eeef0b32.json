@@ -1138,6 +1138,7 @@
       "rotten_flesh": "2025-05-24 22:08:45 +0000",
       "melon_slice": "2025-05-24 01:58:49 +0000",
       "golden_carrot": "2025-05-24 20:40:42 +0000",
+      "cooked_chicken": "2025-05-27 21:12:48 +0000",
       "cooked_salmon": "2025-05-26 00:37:51 +0000"
     },
     "done": false
@@ -5089,6 +5090,18 @@
   "spartanweaponry:recipes/steel_greatsword": {
     "criteria": {
       "has_steel_ingot": "2025-05-26 02:26:53 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-05-27 21:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-27 21:13:17 +0000"
     },
     "done": true
   },

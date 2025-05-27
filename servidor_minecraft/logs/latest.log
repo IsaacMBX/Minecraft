@@ -733,3 +733,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27May2025 21:01:07.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX joined the game
 [27May2025 21:01:07.762] [Server thread/INFO] [Jade/]: Syncing config to IsaacMBX (e8dda07b-6734-34ee-b82d-07e8eeef0b32)
 [27May2025 21:01:09.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
+[27May2025 21:12:59.578] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[27May2025 21:18:25.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [A Terrifying Entrance]
