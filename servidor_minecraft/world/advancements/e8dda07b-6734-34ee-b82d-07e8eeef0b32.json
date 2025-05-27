@@ -85,17 +85,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-27 23:23:18 +0000",
       "minecraft:cherry_grove": "2025-05-26 20:57:00 +0000",
+      "minecraft:sunflower_plains": "2025-05-27 23:17:50 +0000",
+      "minecraft:birch_forest": "2025-05-27 23:22:34 +0000",
       "minecraft:bamboo_jungle": "2025-05-24 02:08:17 +0000",
       "minecraft:savanna_plateau": "2025-05-24 02:24:15 +0000",
+      "minecraft:beach": "2025-05-27 23:00:49 +0000",
       "minecraft:stony_peaks": "2025-05-24 00:47:14 +0000",
       "minecraft:dark_forest": "2025-05-26 20:53:32 +0000",
       "minecraft:sparse_jungle": "2025-05-24 00:44:54 +0000",
       "minecraft:river": "2025-05-24 00:42:42 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-27 23:09:02 +0000",
       "minecraft:dripstone_caves": "2025-05-24 02:00:54 +0000",
+      "minecraft:swamp": "2025-05-27 23:24:11 +0000",
+      "minecraft:cold_ocean": "2025-05-27 23:23:56 +0000",
       "minecraft:forest": "2025-05-24 00:35:52 +0000",
       "minecraft:desert": "2025-05-26 02:31:47 +0000",
       "minecraft:jungle": "2025-05-24 01:50:09 +0000",
+      "minecraft:ocean": "2025-05-27 23:02:51 +0000",
+      "minecraft:flower_forest": "2025-05-27 23:16:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-26 20:57:54 +0000",
       "minecraft:deep_dark": "2025-05-24 02:06:28 +0000",
       "minecraft:meadow": "2025-05-26 20:59:48 +0000",
@@ -1089,6 +1098,7 @@
       "minecraft:vindicator": "2025-05-24 02:19:19 +0000",
       "minecraft:spider": "2025-05-24 01:22:41 +0000",
       "minecraft:creeper": "2025-05-24 01:37:18 +0000",
+      "minecraft:slime": "2025-05-27 23:24:12 +0000",
       "minecraft:witch": "2025-05-24 21:42:05 +0000",
       "minecraft:wither_skeleton": "2025-05-26 01:32:02 +0000",
       "minecraft:cave_spider": "2025-05-26 01:41:00 +0000",
@@ -5105,6 +5115,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 23:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-05-27 22:01:32 +0000"
@@ -5114,6 +5130,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-05-27 22:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-27 23:13:48 +0000"
     },
     "done": true
   },
@@ -5150,6 +5172,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-27 22:01:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-05-27 23:18:02 +0000"
     },
     "done": true
   },
@@ -5195,6 +5223,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-05-27 23:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 23:11:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-27 22:01:17 +0000"
@@ -5204,6 +5244,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-05-27 22:00:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2025-05-27 23:28:22 +0000"
     },
     "done": true
   },
