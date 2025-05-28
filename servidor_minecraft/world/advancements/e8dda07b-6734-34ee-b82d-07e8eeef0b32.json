@@ -5152,6 +5152,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/basic_item_filter": {
+    "criteria": {
+      "has_ingredient": "2025-05-28 00:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-05-27 22:01:32 +0000"
