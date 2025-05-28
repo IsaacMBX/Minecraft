@@ -1139,6 +1139,7 @@
       "cooked_mutton": "2025-05-24 01:35:34 +0000",
       "cooked_beef": "2025-05-24 00:43:50 +0000",
       "baked_potato": "2025-05-24 20:39:03 +0000",
+      "beef": "2025-05-28 00:42:29 +0000",
       "porkchop": "2025-05-24 02:32:11 +0000",
       "apple": "2025-05-24 03:02:17 +0000",
       "pumpkin_pie": "2025-05-24 20:32:24 +0000",
@@ -5185,6 +5186,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-05-27 23:13:48 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-05-28 00:41:33 +0000"
     },
     "done": true
   },
